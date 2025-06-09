@@ -7,7 +7,7 @@
 
 - I'm working on a CS2 modification called [Randerhack.Dev](https://github.com/Sweepaa/randerhack.dev)
 
-- Socials: **Discord: fraduelent**
+- Socials: **Discord: frauduelent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
